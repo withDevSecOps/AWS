@@ -1,0 +1,17 @@
+https://roadmap.sh/devops
+
+1) Learn any language Python/GO/Ruby or Rust 
+2) Learn OS (Windows or Linux)
+3) Learn Github/Gitlab or bitcucket
+4) Networking (Hosting/DNS/Ip Allocation)
+5) Container Kubernetes (K8s) or Docker
+6) Configuration tools like ansiables, chef, puppet, octopus, Terraform (we will be using only Terraform and ansibles)
+7) CI/CD (Jenkins and or Github Actions).
+8) Secrate management (Voult or KeyVault)
+9) Monitoring (Datadog/Dynatrace/Gafana)
+10) Container Orchestration.
+
+
+![alt text](image.png)
+
+![alt text](image-1.png)
